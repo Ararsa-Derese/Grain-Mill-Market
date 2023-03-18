@@ -1,0 +1,3 @@
+teff                100                 45        2         mesebo              
+sende               152                 25        500       mesebo              
+qolo                522                 56        100       mesebo              
